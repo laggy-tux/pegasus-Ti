@@ -1,2 +1,2 @@
 # pegasus-Ti
-pegasus terminal installer and automated scripts
+```pegasus terminal installer and automated scripts```
