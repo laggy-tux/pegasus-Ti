@@ -32,19 +32,37 @@ opening pegasus will show this error if u dont have everything installed
 
 # scraping and creating the pegasus meta file
 
-*to fix this here is what we do.*
-  > we need to get our games (duh)
-   
-  > we need to download '*cores*' on retroarch to run our games 
-  
-  > and we need to '*scrape*' all our games and get to a readable state for pegasus to understand
+> and we need to '*scrape*' all our games and get to a readable state for pegasus to understand
 
-first we open retroarch,it will look somthing like this:
-![Screenshot_2023-03-30-20-46-43_1600x900](https://user-images.githubusercontent.com/85402808/228884250-341e7677-6a59-481d-903d-36773976e1c3.png)
- you could change the theme if u would like buy simply going to:
- > settings/user interface/menu/
-  - i personally love xmb as it give a 'psp'yy vibe(if that makes sense)
- 
- now we go to "Load Cores" present on the main menu and downdload the ones we need to use:\
-  - we simply click on cores and type the name of the console we need it for
-   > eg. for GBA (game boy advance) i would download 
+- we use a tool called [Skraper](https://www.skraper.net/)
+
+**this is currently at alpha stage therefore we need to 'build' this ourselfs**
+
+- download [Skraper](https://www.skraper.net/download/beta/Skraper-1.1.1.7z) 
+
+- go to downloads, extract it and open the folder
+
+- now for commands:
+  ```bash
+   sudo pacman -S mono
+  ```
+  ```bash
+   sudo pacman -S wget
+  ```
+
+- open the foler on terminal(skraper)
+
+- now to open skraper
+```bash
+mono SkraperUI.exe
+```
+- this will start skraper
+
+> **note: keep the terminal window open to continue running skraper**
+
+- now to unerstand more about skraper and how to use it watch **https://www.youtube.com/watch?v=Jhuww7Jl6N0&t=440s&ab_channel=valsou**
+
+- also talks about how to make the pegasus compatible file ( watch the whole thing) 
+  
+  
+  
