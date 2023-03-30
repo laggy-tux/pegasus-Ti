@@ -49,9 +49,6 @@ opening pegasus will show this error if u dont have everything installed
   ```bash
    sudo pacman -S mono
   ```
-  ```bash
-   sudo pacman -S wget
-  ```
 
 - open the folder on terminal(skraper)
 
@@ -68,4 +65,20 @@ mono SkraperUI.exe
 - also talks about how to make the pegasus compatible file ( watch the whole thing) 
   
   
+# pegasus final setup
+
+now that we have everything we need lets open pegasus and configure 
+
+- open pegasus and go to settings 
+
+- under *gaming* open *set game directories*
+
+- click on add
+
+- and select the game folder containing the *metadata.pegasus.txt* **or** *metadata.txt*
+
+-> **note changing the name of the file will cause pegasus not to recognise it so DONT**
+
+- now add the file and *voila the games should load and should look like this:
+ 
   
