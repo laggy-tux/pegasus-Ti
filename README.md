@@ -77,7 +77,7 @@ now that we have everything we need lets open pegasus and configure
 
 - and select the game folder containing the *metadata.pegasus.txt* **or** *metadata.txt*
 
--> **note changing the name of the file will cause pegasus not to recognise it so DONT**
+> **note changing the name of the file will cause pegasus not to recognise it so DONT**
 
 - now add the file and *voila the games should load and should look like this:
  
