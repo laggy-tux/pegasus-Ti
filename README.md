@@ -1,3 +1,6 @@
+#### table of content
+
+
 # pegasus-Ti
 
 **pegasus terminal installer**
@@ -50,7 +53,7 @@ opening pegasus will show this error if u dont have everything installed
    sudo pacman -S wget
   ```
 
-- open the foler on terminal(skraper)
+- open the folder on terminal(skraper)
 
 - now to open skraper
 ```bash
