@@ -30,10 +30,13 @@ now that everything has been installed we open pegasus,**BUT** :
 
 opening pegasus will show this error if u dont have everything installed
 
--to fix this here is what we do.
+# scraping and creating the pegasus meta file
+
+*to fix this here is what we do.*
   > we need to get our games (duh)
    
   > we need to download '*cores*' on retroarch to run our games 
   
   > and we need to '*scrape*' all our games and get to a readable state for pegasus to understand
 
+first we open retroarch 
