@@ -1,3 +1,3 @@
 # pegasus-Ti
 
-**pegasus terminal installer**
+# **pegasus terminal installer**
