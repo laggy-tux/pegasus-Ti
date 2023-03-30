@@ -19,7 +19,7 @@ now to run this:
 choose your operating system and go through the installation
 
 *what is being installed?*
--  pegasus(the frontend)
--  retroarch(emulator)
--  scrapper(to get the meta-data of games)
+-  pegasus (the frontend)
+-  retroarch (emulator)
+-  scrapper (to get the meta-data of games)
 -  other dependencies to run all these
