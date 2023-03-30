@@ -39,4 +39,12 @@ opening pegasus will show this error if u dont have everything installed
   
   > and we need to '*scrape*' all our games and get to a readable state for pegasus to understand
 
-first we open retroarch 
+first we open retroarch,it will look somthing like this:
+![Screenshot_2023-03-30-20-46-43_1600x900](https://user-images.githubusercontent.com/85402808/228884250-341e7677-6a59-481d-903d-36773976e1c3.png)
+ you could change the theme if u would like buy simply going to:
+ > settings/user interface/menu/
+  - i personally love xmb as it give a 'psp'yy vibe(if that makes sense)
+ 
+ now we go to "Load Cores" present on the main menu and downdload the ones we need to use:\
+  - we simply click on cores and type the name of the console we need it for
+   > eg. for GBA (game boy advance) i would download 
