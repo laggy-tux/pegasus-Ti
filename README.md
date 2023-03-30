@@ -24,3 +24,6 @@ choose your operating system and go through the installation
 -  other dependencies to run all these
 
 now that everything has been installed we open pegasus,**BUT** :
+
+
+![Screenshot_2023-03-30-19-58-38_1600x900](https://user-images.githubusercontent.com/85402808/228869245-caf4533b-a8b5-470e-9cc0-f3f554f10fd4.png)
