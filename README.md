@@ -5,6 +5,10 @@
 
 **pegasus terminal installer**
 
+(tested on arch for now... plese test it on ubuntu or any debian based distro and let me know )
+
+*fork the project if you would like to aswell*
+
 semi guide to installing pegasus themes and configs and how to scrap metadata for games aswell to create the pegasus.text
 
 this installer should work on arch,ubuntu(only these for now)
