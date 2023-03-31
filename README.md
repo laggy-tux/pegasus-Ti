@@ -1,4 +1,12 @@
-#### table of content
+#introduction
+
+*what you need to know*
+
+- a decent knowledge of the terminal
+
+- configured or know how to configure retroarch
+
+- know what your doing, if not do some research
 
 
 # pegasus-Ti
