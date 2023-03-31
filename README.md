@@ -81,4 +81,10 @@ now that we have everything we need lets open pegasus and configure
 
 - now add the file and *voila the games should load and should look like this:
  
-  
+ ![Screenshot_2023-03-31-08-59-14_1600x900](https://user-images.githubusercontent.com/85402808/229015712-9ac313b4-561c-4189-9161-2d0beedad2e6.png)
+
+now to change themes go to settings and change the theme there
+
+if you configured your retroarch opening a game in pegasus would directly open it on retroarch
+
+you could add more emulators such as PPSSPP and others and do the same to get it playable 
