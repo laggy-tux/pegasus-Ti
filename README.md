@@ -88,3 +88,11 @@ now to change themes go to settings and change the theme there
 if you configured your retroarch opening a game in pegasus would directly open it on retroarch
 
 you could add more emulators such as PPSSPP and others and do the same to get it playable 
+
+#  credits:
+ - themes:
+  > Rp-epic-noir by @dragoonDorise
+  > switchOS by @PlayingKarrde
+  > gameOS by @Seth-Powell
+  > prosperoOs by @Seth-Powell
+ - credit to pegasus' creator @mmatyas
