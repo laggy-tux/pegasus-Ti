@@ -54,6 +54,12 @@ opening pegasus will show this error if u dont have everything installed
    sudo pacman -S mono
   ```
 
+and for ubuntu:
+
+```bash
+sudo apt install mono
+```
+
 - open the folder on terminal(skraper)
 
 - now to open skraper
